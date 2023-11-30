@@ -11,3 +11,8 @@ Heart disease and stroke are two of the most common and costly health concerns w
 Heart disease kills roughly the same number of people each year as cancer, lower respiratory diseases (including pneumonia), and accidents combined. Heart disease and stroke cost the nation an estimated $316.6 billion in health care costs and lost productivity in 2011
 
 Healthcare companies collect a lot of historical data pertaining to these chronicdiseases. These datasets can be leveraged to train machine learning algorithms and learn from the history which eventually will help in predicting such chronic conditions in patients
+
+
+# Lab Environment: Jupyter Notebooks
+
+# Domain: Healthcare
